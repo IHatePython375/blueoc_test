@@ -38,6 +38,7 @@ This app showcases a clean Redux workflow for API-driven data:
 
 ## Project Structure
 
+```text
 src/
 ├── components/
 │   ├── PostForm.js      // Controlled form, dispatches addPost
